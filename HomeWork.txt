@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This PR created by Kateryna Borodavko
+=======
+This PR created by Anastasiia Fylypchuk
+>>>>>>> db47151bf1bac17fc525025595410294d4aa3887
